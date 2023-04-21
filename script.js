@@ -4,9 +4,9 @@ function start(){
 }
 
 function change(){
-  document.getElementById('change').style.fontSize='40px';
-  document.getElementById('change').style.font='times';
-  document.getElementById('change').style.color='purple';
+  document.getElementById('title').style.fontSize='40px';
+  document.getElementById('title').style.font='times';
+  document.getElementById('title').style.color='purple';
 }
 
 window.onload=start;
